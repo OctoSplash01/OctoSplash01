@@ -8,6 +8,7 @@ My passion for technology keeps me from seeing daylight.
 - 🛠 Always working to improve my skills in OpenGL, even though GLSL can drive a person crazy.
 - 🎯 I love solving problems and learning something new every day.
 - 🍺 Some people live off energy drinks and coffee. I do too, but I also enjoy having a beer or two before bed.
+- 💀 Governments trying to ruin the internet piss me off.
 
 ## 🔐 Private Projects
 
@@ -23,4 +24,4 @@ Most of my **COOL** repositories are private, but here’s what I typically work
 
 ## 🎉 Fun Fact
 
-Even though my repos are private, my passion for coding isn’t! 🚀 Also, I can probably write an entire Minecraft "ClientBase" faster than I can decide what to eat for dinner. 🍕🤔
+I love tea and hate javascript!!!
